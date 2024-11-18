@@ -38,3 +38,16 @@ npm start
 
 
 The app will be available at http://localhost:3000.
+
+Testing the Application
+
+Patient Registration:
+Go to the "Register Patient" page and register a new patient. Verify that the patient appears in the "Registered Patients" list.
+
+
+Appointment Scheduling:
+Schedule an appointment for a registered patient. Verify time conflict handling and success message.
+
+
+Data Deletion:
+Delete a patient or an appointment and confirm that the deletion works.
