@@ -5,14 +5,18 @@ Setup Instructions ===>
 Backend:
 
 Install Dependencies:
-Navigate to the backend directory (where server.js is located) and run: //
-npm install
+Navigate to the backend directory (where server.js is located) and run
 This installs dependencies like express, mongoose, and cors.
 
+
+npm install
+
+
 Start MongoDB:
-Start your local MongoDB server:
+Start your local MongoDB server. Alternatively, use a MongoDB cloud service like MongoDB Atlas.
+
+
 mongod
-Alternatively, use a MongoDB cloud service like MongoDB Atlas.
 
 Run the Server:
 Start the backend server:
