@@ -5,7 +5,7 @@ Setup Instructions ===>
 Backend:
 
 Install Dependencies:
-Navigate to the backend directory (where server.js is located) and run:/n
+Navigate to the backend directory (where server.js is located) and run: //
 npm install
 This installs dependencies like express, mongoose, and cors.
 
